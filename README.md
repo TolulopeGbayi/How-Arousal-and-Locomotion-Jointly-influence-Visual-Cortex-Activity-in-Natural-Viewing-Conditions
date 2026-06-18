@@ -4,7 +4,7 @@
 
 Sensory processing in the brain is greatly influenced by behavioral states like movement and arousal as a response to the environment. However, how locomotion (movement) and changes in arousal (indicated by pupil size) work synergistically to affect the brain exposed to natural experiences is not yet fully understood. 
 
-### Key Research Questions
+### Research Questions
 
 Locomotion has been shown to influence cortical gain and reliability of visual brain responses, while pupil size shows fast arousal-driven changes. However, most past research has focused on these factors in isolation or with simple visual stimuli, thereby leaving questions about how the combined effect influences state-to-state changes during real-life visual scenes. This project aims to address this gap by examining the joint influence of locomotion and arousal on visual cortex activity during naturalistic stimulation.
 
@@ -37,4 +37,4 @@ The novel findings reveal that behavior modulates visual cortex activity through
 
 ## Data Source
 
-All analyses are based on publicly available data from the [Allen Brain Observatory](https://observatory.brain-map.org/), ensuring reproducibility and accessibility for the research community.
+All analyses are based on publicly available data from the [Allen Brain Observatory](https://observatory.brain-map.org/), ensuring reproducibility and accessibility.
